@@ -2,6 +2,8 @@
 
 ![](https://docs.microsoft.com/en-us/azure/architecture/data-guide/images/data-warehousing.png)
 
+Theo quan điểm của tôi thì đi từ basic với sự kiên trì, đến nâng cao 
+
 Technique | Where to look
 ----------|--------------
 Grouping similar words |[Stemming](), [Splitting Words](), [Parsing Documents]()
@@ -15,6 +17,7 @@ Finding similar documents | [Latent Semantic Analysis]()
 Identifying entities (e.g., cities, people) in a text | [Parsing Documents]()
 Understanding the attitude expressed in a text| [Parsing Documents]()
 Translating a text| [Parsing Documents]()
+Chinese, Cantonese (tiếng Quảng), Taiwanese (tiếng Quan Thoại, phương ngữ Trung Hoa), Japanese, Korean, Arabic (tiếng Ả Rập)| [Parsing the languages](), [translate the languages]()
 
 ## Classifying Words
 Phân loại các pattern, compression của các từ theo một nhóm hay phân loại nào đó được dùng rất nhiều trong ngành khoa học công nghệ như template engine, framework, recommendation system, xử lý âm thanh, parser in compiler, search engine,...
