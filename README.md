@@ -18,7 +18,7 @@ Translating a text| [Parsing Documents]()
 Chinese, Cantonese (tiếng Quảng), Taiwanese (tiếng Quan Thoại, phương ngữ Trung Hoa), Japanese, Korean, Arabic (tiếng Ả Rập)| [Parsing the languages](), [translate the languages]()
 
 ## Classifying Words
-Phân loại các pattern, compression của các từ theo một nhóm hay phân loại nào đó được dùng rất nhiều trong ngành khoa học công nghệ như template engine, framework, recommendation system, xử lý âm thanh, parser in compiler, search engine,...
+Phân loại các pattern, compression của các từ theo một nhóm hay phân loại nào đó được dùng rất nhiều trong ngành khoa học công nghệ như template engine, framework, recommendation system, speech engine, parser in compiler, search engine, social website feeds, spam filter, translation,...
 ### Grouping Similar Words
 #### Stemming
 #### Splitting Words
