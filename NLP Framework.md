@@ -57,10 +57,10 @@
   PRP | Nhãn chức năng trạng ngữ chỉ mục đích hay lý do 
   ADV | Nhãn chức năng trạng ngữ nói chung (dùng khi trạng ngữ không thuộc một trong các loại cụ thể trên)
   
-+ WordPunctTokenizer
++ WordPunctTokenizer: Tokenize a text into a sequence of alphabetic and non-alphabetic characters, **using the regexp \w+|[^\w\s]+.**
 + PunctWordTokenizer: This tokenizer divides a text into a list of sentences by using an unsupervised algorithm to build a model for abbreviation words, collocations, and words that start sentences.  It must be trained on a large collection of plaintext in the target language before it can be used.
 
-+ WhitespaceTokenizer
++ WhitespaceTokenizer: Tokenize a string on whitespace (space, tab, newline). In general, users should use the string split() method instead.
 
 I show the most popular neural network frameworks and libraries that can be utilized for natural language processing (NLP) in the Python programming language.
 
