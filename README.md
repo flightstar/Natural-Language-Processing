@@ -39,6 +39,16 @@ Phân loại các pattern, compression của các từ theo một nhóm hay phâ
 #### The Things You Can Do
 #### The Libraries You Can Use
 ### References 
++ [Journal of Machine Learning Research  (JMLR)](http://www.jmlr.org/papers/)
++ [International Conference on Learning Representations (ICLR)](https://iclr.cc/)
++ [Neural Information Processing Systems (NIPS)](https://papers.nips.cc/)
++ [International Conference on Machine Learning (ICML)](https://icml.cc/Conferences/2018/Schedule?type=Poster)
++ [Association for Computational Linguistics (ACL)](http://aclweb.org/anthology/)
++ [Best Paper Awards in Computer Science](https://jeffhuang.com/best_paper_awards.html)
++ [Conference on Computer Vision and Pattern Recognition](https://www.thecvf.com)
++ [North American Chapter of the Association for Computational Linguistics](http://naacl.org/)
++ [Empirical Methods in Natural Language Processing](https://aclanthology.info/venues/emnlp)
++ [Association for Uncertainty in Artificial Intelligence](http://www.auai.org/)
 + [NLP Prject](https://github.com/costezki/awesome-nlprojects)
 + [List of NLP resource](https://github.com/keon/awesome-nlp)
 + [Understand & Implement Natural Language Processing](https://www.analyticsvidhya.com/blog/2017/01/ultimate-guide-to-understand-implement-natural-language-processing-codes-in-python/)
