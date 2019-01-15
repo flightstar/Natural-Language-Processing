@@ -62,11 +62,16 @@
 
 + WhitespaceTokenizer: Tokenize a string on whitespace (space, tab, newline). In general, users should use the string split() method instead.
 
-I show the most popular neural network frameworks and libraries that can be utilized for natural language processing (NLP) in the Python programming language.
+I show the most popular neural network frameworks and libraries that can be utilized for natural language processing (NLP) in the some programming language.
 
 + [Parsing in English](https://www.clips.uantwerpen.be/pages/pattern-en) 
 + [Parsing in Dutch](https://www.clips.uantwerpen.be/pages/pattern-nl)
 + [Parsing in French](https://www.clips.uantwerpen.be/pages/pattern-fr)
 + [Parsing in Spanish](https://www.clips.uantwerpen.be/pages/pattern-es) 
 + [Parsing in Italian](https://www.clips.uantwerpen.be/pages/pattern-it)
++ [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/)
++ [Natural language toolkit (NLTK)]()
++ [Apache OpenNLP](https://opennlp.apache.org/docs/)
++ [Gate NLP library](https://gate.ac.uk/)
++ [scikit-learn](https://scikit-learn.org/stable/), [dataset](http://qwone.com/~jason/20Newsgroups/)
 
