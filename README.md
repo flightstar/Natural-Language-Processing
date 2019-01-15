@@ -39,6 +39,7 @@ Phân loại các pattern, compression của các từ theo một nhóm hay phâ
 #### The Things You Can Do
 #### The Libraries You Can Use
 ### References 
++ [Defense Advance Research Project Agency (DARPA)](https://www.darpa.mil/our-research)
 + [Journal of Machine Learning Research  (JMLR)](http://www.jmlr.org/papers/)
 + [International Conference on Learning Representations (ICLR)](https://iclr.cc/)
 + [Neural Information Processing Systems (NIPS)](https://papers.nips.cc/)
