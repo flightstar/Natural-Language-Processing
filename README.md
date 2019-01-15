@@ -17,6 +17,7 @@ Understanding the attitude expressed in a text| [Parsing Documents]()
 Translating a text| [Parsing Documents]()
 
 ## Classifying Words
+Phân loại các pattern, compression của các từ theo một nhóm hay phân loại nào đó được dùng rất nhiều trong ngành khoa học công nghệ như template engine, framework, recommendation system, xử lý âm thanh, parser in compiler, search engine,...
 ### Grouping Similar Words
 #### Stemming
 #### Splitting Words
