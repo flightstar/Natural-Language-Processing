@@ -2,8 +2,6 @@
 
 ![](https://docs.microsoft.com/en-us/azure/architecture/data-guide/images/data-warehousing.png)
 
-Theo quan điểm của tôi thì đi từ basic với sự kiên trì, đến nâng cao 
-
 Technique | Where to look
 ----------|--------------
 Grouping similar words |[Stemming](), [Splitting Words](), [Parsing Documents]()
