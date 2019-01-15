@@ -38,3 +38,7 @@ Phân loại các pattern, compression của các từ theo một nhóm hay phâ
 #### You Need Data
 #### The Things You Can Do
 #### The Libraries You Can Use
+### References 
++ [NLP Prject](https://github.com/costezki/awesome-nlprojects)
++ [List of NLP resource](https://github.com/keon/awesome-nlp)
++ [Understand & Implement Natural Language Processing](https://www.analyticsvidhya.com/blog/2017/01/ultimate-guide-to-understand-implement-natural-language-processing-codes-in-python/)
