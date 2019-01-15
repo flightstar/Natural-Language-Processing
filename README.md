@@ -15,3 +15,24 @@ Finding similar documents | [Latent Semantic Analysis]()
 Identifying entities (e.g., cities, people) in a text | [Parsing Documents]()
 Understanding the attitude expressed in a text| [Parsing Documents]()
 Translating a text| [Parsing Documents]()
+
+## Classifying Words
+### Grouping Similar Words
+#### Stemming
+#### Splitting Words
+## Classifying Documents
+### Text Metrics
+#### Reading Time
+#### Calculating the Readability of a Text
+### Identifying a Language
+## Understanding Documents
+### Generation of Summaries
+#### SumBasic
+#### Graph-based Methods: TextRank
+#### Latent Semantic Analysis
+#### Other Methods and Libraries
+#### Other Uses
+### Parsing Documents
+#### You Need Data
+#### The Things You Can Do
+#### The Libraries You Can Use
