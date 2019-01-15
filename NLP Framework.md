@@ -64,7 +64,9 @@
 
 I show the most popular neural network frameworks and libraries that can be utilized for natural language processing (NLP) in the Python programming language.
 
-+ Parsing the English 
-+ Parsing the Dutch
-+ Parsing the English
-+
++ [Parsing in English](https://www.clips.uantwerpen.be/pages/pattern-en) 
++ [Parsing in Dutch](https://www.clips.uantwerpen.be/pages/pattern-nl)
++ [Parsing in French](https://www.clips.uantwerpen.be/pages/pattern-fr)
++ [Parsing in Spanish](https://www.clips.uantwerpen.be/pages/pattern-es) 
++ [Parsing in Italian](https://www.clips.uantwerpen.be/pages/pattern-it)
+
