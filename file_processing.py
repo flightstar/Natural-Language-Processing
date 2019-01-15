@@ -1,3 +1,6 @@
+import os
+import numpy as np
+
 def showData(data, names):
     i = 0
     while i < data.shape[0]:
@@ -12,12 +15,12 @@ def showData(data, names):
 def Main():
     print("The sample data is: ")
     fname = 'data.csv'
-    csv = numpy.genfromtxt(fname, dtype=str, delimiter=",")
+    csv = np.genfromtxt(fname, dtype=str, delimiter=",")
     num_rows = csv.shape[0] # x axis in graphics computer
     num_cols = csv.shape[1] # y axis in graphics computer
     names = csv[1:,0]
     # get data frame from the first column to the end colums
-    data = numpy.genfromtxt(fname, usecols = range(1,num_cols), delimiter=",")
+    data = np.genfromtxt(fname, usecols = range(1,num_cols), delimiter=",")
     print(names)
     print(str(num_rows) + "x" + str(num_cols))
     print(data)
